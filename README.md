@@ -28,14 +28,16 @@
 	<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </p>
   
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrakr54&&langs_count=5&&theme=dark">
+</p>
+
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendrakr54&show_icons=true&locale=en&theme=dark"" alt="jitendrakr54" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrakr54&&langs_count=5&&theme=dark">
-</p>
+
 
 <h2 align="center">Connect me on</h2>
 <p align="center">
